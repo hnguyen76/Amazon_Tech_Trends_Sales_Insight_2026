@@ -9,8 +9,11 @@ Professional dashboard and analysis report for the Amazon Big Sales Dataset 2026
 | File | Purpose |
 |---|---|
 | `index.html` | Interactive dashboard with KPI cards, category charts, scatter plot, search, filters, and leaderboard |
+| `Amazon_Big_Sales_Analysis_2026.ipynb` | Python notebook with data clean up, validation, full analysis, visualizations, and recommendations |
 | `REPORT.md` | Professional analysis report with executive summary, insights, and recommendations |
 | `Amazon_Big_Sales_Dataset_2026.csv` | Source dataset |
+| `Amazon_Big_Sales_Dataset_2026_Cleaned.csv` | Cleaned and feature-enriched dataset exported from the notebook |
+| `requirements.txt` | Python packages needed for the notebook |
 
 ## Dashboard Features
 
@@ -24,6 +27,16 @@ Professional dashboard and analysis report for the Amazon Big Sales Dataset 2026
 ## How To View
 
 Open `index.html` in a browser. No install step is required.
+
+## Run The Notebook
+
+Use the local virtual environment:
+
+```powershell
+.\.amazonvenv\Scripts\python.exe -m pip install -r requirements.txt
+```
+
+Then open `Amazon_Big_Sales_Analysis_2026.ipynb` and select `.amazonvenv` as the notebook kernel.
 
 ## GitHub Pages
 
@@ -40,4 +53,3 @@ The dataset does not include actual units sold or realized revenue. For that rea
 ```text
 Sales Potential = Price_USD x Review_Count
 ```
-

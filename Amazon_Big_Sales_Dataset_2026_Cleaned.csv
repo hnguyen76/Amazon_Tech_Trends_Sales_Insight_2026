@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Price_USD,Rating,Review_Count,Sales_Potential,Product_Family,Price_Tier,Rating_Band,Review_Intensity
+AZ1001,Power Bank Model-39,Audio,591.53,4.1,4399,2602140.4699999997,Power Bank,Core,Solid,Moderate
+AZ1002,External SSD Model-20,Accessories,647.02,3.6,9779,6327208.58,External SSD,Core,Needs Attention,Very High
+AZ1003,Smart Watch Model-72,Accessories,419.88,4.7,9704,4074515.52,Smart Watch,Core,Strong,Very High
+AZ1004,Graphics Card Model-97,Electronics,214.91,4.8,6305,1355007.55,Graphics Card,Value,Excellent,High
+AZ1005,Mechanical Keyboard Model-53,Computers,1002.45,4.1,8880,8901756.0,Mechanical Keyboard,Premium,Solid,Very High
+AZ1006,USB-C Hub Model-94,Computers,638.88,4.4,2724,1740309.1199999999,USB-C Hub,Core,Strong,Moderate
+AZ1007,External SSD Model-97,Audio,546.71,3.6,532,290849.72000000003,External SSD,Core,Needs Attention,Low
+AZ1008,Smart Watch Model-25,Audio,856.78,4.1,8072,6915928.16,Smart Watch,Premium,Solid,Very High
+AZ1009,VR Headset Model-15,Electronics,97.64,4.0,7424,724879.36,VR Headset,Value,Solid,Very High
+AZ1010,Smart Watch Model-27,Audio,35.02,4.9,5453,190964.06000000003,Smart Watch,Value,Excellent,High
+AZ1011,Webcam Pro Model-75,Computers,724.8,3.6,7763,5626622.399999999,Webcam Pro,Premium,Needs Attention,Very High
+AZ1012,Bluetooth Headphones Model-68,Audio,1283.4,4.3,634,813675.6000000001,Bluetooth Headphones,Ultra Premium,Strong,Low
+AZ1013,Gaming Laptop Model-83,Audio,1386.96,3.9,991,1374477.36,Gaming Laptop,Ultra Premium,Solid,Low
+AZ1014,Power Bank Model-58,Audio,321.92,4.9,7059,2272433.2800000003,Power Bank,Value,Excellent,High
+AZ1015,External SSD Model-90,Audio,23.23,3.6,2853,66275.19,External SSD,Value,Needs Attention,Moderate
+AZ1016,Tablet Model-67,Electronics,1130.81,4.5,7707,8715152.67,Tablet,Ultra Premium,Strong,Very High
+AZ1017,Gaming Laptop Model-24,Accessories,1007.39,3.8,2840,2860987.6,Gaming Laptop,Premium,Solid,Moderate
+AZ1018,Mechanical Keyboard Model-82,Computers,463.13,4.1,2342,1084650.46,Mechanical Keyboard,Core,Solid,Low
+AZ1019,Tablet Model-38,Audio,1016.29,3.8,522,530503.38,Tablet,Premium,Solid,Low
+AZ1020,Smart Watch Model-60,Audio,367.08,4.4,1732,635782.5599999999,Smart Watch,Value,Strong,Low
+AZ1021,Gaming Laptop Model-71,Audio,883.6,4.1,8707,7693505.2,Gaming Laptop,Premium,Solid,Very High
+AZ1022,Gaming Laptop Model-26,Electronics,506.59,4.9,9645,4886060.55,Gaming Laptop,Core,Excellent,Very High
+AZ1023,Mechanical Keyboard Model-30,Electronics,610.52,3.7,8720,5323734.399999999,Mechanical Keyboard,Core,Needs Attention,Very High
+AZ1024,External SSD Model-31,Computers,1036.06,4.0,4053,4199151.18,External SSD,Premium,Solid,Moderate
+AZ1025,External SSD Model-31,Electronics,1308.24,4.3,6475,8470854.0,External SSD,Ultra Premium,Strong,High
+AZ1026,Gaming Laptop Model-91,Accessories,1095.55,4.1,2973,3257070.15,Gaming Laptop,Premium,Solid,Moderate
+AZ1027,Tablet Model-69,Audio,812.22,5.0,1609,1306861.98,Tablet,Premium,Excellent,Low
+AZ1028,External SSD Model-32,Accessories,1071.24,4.2,5188,5557593.12,External SSD,Premium,Solid,High
+AZ1029,4K Monitor Model-45,Accessories,1186.77,4.5,2765,3281419.05,4K Monitor,Ultra Premium,Strong,Moderate
+AZ1030,Webcam Pro Model-24,Computers,545.92,3.8,7510,4099859.1999999997,Webcam Pro,Core,Solid,Very High
+AZ1031,4K Monitor Model-88,Electronics,1258.81,4.5,5306,6679245.859999999,4K Monitor,Ultra Premium,Strong,High
+AZ1032,Bluetooth Headphones Model-32,Computers,1143.05,4.0,8112,9272421.6,Bluetooth Headphones,Ultra Premium,Solid,Very High
+AZ1033,Tablet Model-60,Audio,1179.84,5.0,4108,4846782.72,Tablet,Ultra Premium,Excellent,Moderate
+AZ1034,Wireless Mouse Model-92,Audio,1351.4,4.1,1363,1841958.2000000002,Wireless Mouse,Ultra Premium,Solid,Low
+AZ1035,USB-C Hub Model-10,Accessories,784.8,4.8,9953,7811114.399999999,USB-C Hub,Premium,Excellent,Very High
+AZ1036,Mechanical Keyboard Model-60,Accessories,1355.31,4.3,4113,5574390.029999999,Mechanical Keyboard,Ultra Premium,Strong,Moderate
+AZ1037,External SSD Model-49,Computers,1034.72,3.7,6682,6913999.04,External SSD,Premium,Needs Attention,High
+AZ1038,Wireless Mouse Model-77,Computers,287.46,4.1,3128,899174.8799999999,Wireless Mouse,Value,Solid,Moderate
+AZ1039,Mechanical Keyboard Model-54,Accessories,1051.98,5.0,3193,3358972.14,Mechanical Keyboard,Premium,Excellent,Moderate
+AZ1040,Mechanical Keyboard Model-74,Accessories,559.69,4.3,3337,1867685.5300000003,Mechanical Keyboard,Core,Strong,Moderate
+AZ1041,Bluetooth Headphones Model-44,Computers,668.53,4.8,3882,2595233.46,Bluetooth Headphones,Core,Excellent,Moderate
+AZ1042,4K Monitor Model-40,Electronics,1187.06,3.8,5426,6440987.56,4K Monitor,Ultra Premium,Solid,High
+AZ1043,Power Bank Model-74,Accessories,1431.11,4.5,1288,1843269.68,Power Bank,Ultra Premium,Strong,Low
+AZ1044,Power Bank Model-30,Computers,611.24,4.1,3138,1918071.12,Power Bank,Core,Solid,Moderate
+AZ1045,External SSD Model-89,Audio,315.62,3.8,397,125301.14,External SSD,Value,Solid,Low
+AZ1046,Smart Watch Model-75,Accessories,375.18,4.9,8672,3253560.96,Smart Watch,Value,Excellent,Very High
+AZ1047,Mechanical Keyboard Model-60,Electronics,641.42,4.6,8722,5594465.239999999,Mechanical Keyboard,Core,Strong,Very High
+AZ1048,External SSD Model-43,Accessories,1171.64,3.9,5148,6031602.720000001,External SSD,Ultra Premium,Solid,High
+AZ1049,USB-C Hub Model-16,Electronics,307.6,4.5,7877,2422965.2,USB-C Hub,Value,Strong,Very High
+AZ1050,Tablet Model-79,Accessories,1181.19,4.5,1521,1796589.99,Tablet,Ultra Premium,Strong,Low
+AZ1051,Graphics Card Model-39,Computers,1392.17,4.8,6300,8770671.0,Graphics Card,Ultra Premium,Excellent,High
+AZ1052,Wireless Mouse Model-32,Accessories,701.44,4.2,5797,4066247.68,Wireless Mouse,Premium,Solid,High
+AZ1053,VR Headset Model-61,Electronics,1282.84,4.2,4880,6260259.199999999,VR Headset,Ultra Premium,Solid,High
+AZ1054,USB-C Hub Model-11,Computers,713.03,4.8,2492,1776870.76,USB-C Hub,Premium,Excellent,Low
+AZ1055,Wireless Mouse Model-41,Accessories,1242.77,4.3,803,997944.3099999999,Wireless Mouse,Ultra Premium,Strong,Low
+AZ1056,Graphics Card Model-47,Electronics,442.34,4.5,6148,2719506.32,Graphics Card,Core,Strong,High
+AZ1057,External SSD Model-93,Accessories,491.09,4.6,2201,1080889.0899999999,External SSD,Core,Strong,Low
+AZ1058,Bluetooth Headphones Model-95,Accessories,618.6,3.5,4388,2714416.8000000003,Bluetooth Headphones,Core,Needs Attention,Moderate
+AZ1059,External SSD Model-96,Computers,962.65,3.8,1206,1160955.9,External SSD,Premium,Solid,Low
+AZ1060,4K Monitor Model-76,Computers,1353.02,4.5,5283,7148004.66,4K Monitor,Ultra Premium,Strong,High
+AZ1061,4K Monitor Model-43,Audio,40.38,3.7,4057,163821.66,4K Monitor,Value,Needs Attention,Moderate
+AZ1062,Webcam Pro Model-84,Electronics,613.87,3.6,8021,4923851.2700000005,Webcam Pro,Core,Needs Attention,Very High
+AZ1063,External SSD Model-79,Accessories,144.71,4.8,1612,233272.52000000002,External SSD,Value,Excellent,Low
+AZ1064,Mechanical Keyboard Model-35,Electronics,100.52,4.5,6436,646946.72,Mechanical Keyboard,Value,Strong,High
+AZ1065,USB-C Hub Model-56,Electronics,1111.72,4.0,2210,2456901.2,USB-C Hub,Premium,Solid,Low
+AZ1066,Graphics Card Model-56,Accessories,687.33,4.9,1547,1063299.51,Graphics Card,Core,Excellent,Low
+AZ1067,USB-C Hub Model-38,Computers,284.99,4.1,5710,1627292.9000000001,USB-C Hub,Value,Solid,High
+AZ1068,USB-C Hub Model-89,Audio,1016.97,4.9,8651,8797807.47,USB-C Hub,Premium,Excellent,Very High
+AZ1069,Gaming Laptop Model-17,Electronics,456.99,3.7,266,121559.34,Gaming Laptop,Core,Needs Attention,Low
+AZ1070,Mechanical Keyboard Model-47,Accessories,631.22,4.6,3713,2343719.86,Mechanical Keyboard,Core,Strong,Moderate
+AZ1071,Webcam Pro Model-63,Accessories,590.68,4.9,3968,2343818.2399999998,Webcam Pro,Core,Excellent,Moderate
+AZ1072,Mechanical Keyboard Model-83,Audio,1243.22,4.1,4667,5802107.74,Mechanical Keyboard,Ultra Premium,Solid,High
+AZ1073,VR Headset Model-32,Accessories,919.03,4.0,6712,6168529.359999999,VR Headset,Premium,Solid,High
+AZ1074,Wireless Mouse Model-35,Accessories,155.5,4.7,3422,532121.0,Wireless Mouse,Value,Strong,Moderate
+AZ1075,Wireless Mouse Model-76,Computers,904.54,4.4,8382,7581854.279999999,Wireless Mouse,Premium,Strong,Very High
+AZ1076,Mechanical Keyboard Model-87,Computers,1296.17,4.1,7984,10348621.280000001,Mechanical Keyboard,Ultra Premium,Solid,Very High
+AZ1077,VR Headset Model-24,Audio,1233.49,4.1,7205,8887295.45,VR Headset,Ultra Premium,Solid,High
+AZ1078,VR Headset Model-19,Electronics,338.22,4.0,5428,1835858.1600000001,VR Headset,Value,Solid,High
+AZ1079,External SSD Model-96,Electronics,383.39,4.9,4381,1679631.5899999999,External SSD,Value,Excellent,Moderate
+AZ1080,External SSD Model-82,Audio,994.65,4.8,4217,4194439.05,External SSD,Premium,Excellent,Moderate
+AZ1081,Smart Watch Model-24,Electronics,198.42,4.4,286,56748.119999999995,Smart Watch,Value,Strong,Low
+AZ1082,Wireless Mouse Model-83,Audio,610.6,4.8,3825,2335545.0,Wireless Mouse,Core,Excellent,Moderate
+AZ1083,Power Bank Model-33,Accessories,150.3,3.6,4786,719335.8,Power Bank,Value,Needs Attention,High
+AZ1084,Webcam Pro Model-18,Electronics,149.62,4.6,9704,1451912.48,Webcam Pro,Value,Strong,Very High
+AZ1085,External SSD Model-77,Audio,456.31,4.6,8947,4082605.57,External SSD,Core,Strong,Very High
+AZ1086,Wireless Mouse Model-51,Audio,341.2,4.3,7270,2480524.0,Wireless Mouse,Value,Strong,High
+AZ1087,Smart Watch Model-14,Accessories,1112.87,4.0,7517,8365443.789999999,Smart Watch,Premium,Solid,Very High
+AZ1088,External SSD Model-32,Accessories,1263.86,4.5,278,351353.07999999996,External SSD,Ultra Premium,Strong,Low
+AZ1089,4K Monitor Model-23,Electronics,66.98,4.0,1020,68319.6,4K Monitor,Value,Solid,Low
+AZ1090,Bluetooth Headphones Model-56,Accessories,1476.8,3.6,2246,3316892.8,Bluetooth Headphones,Ultra Premium,Needs Attention,Low
+AZ1091,Mechanical Keyboard Model-57,Electronics,1143.35,3.6,5468,6251837.8,Mechanical Keyboard,Ultra Premium,Needs Attention,High
+AZ1092,Mechanical Keyboard Model-79,Audio,690.69,4.7,4527,3126753.6300000004,Mechanical Keyboard,Premium,Strong,High
+AZ1093,Tablet Model-24,Computers,431.52,5.0,8832,3811184.6399999997,Tablet,Core,Excellent,Very High
+AZ1094,Power Bank Model-66,Audio,118.54,3.9,6373,755455.42,Power Bank,Value,Solid,High
+AZ1095,Gaming Laptop Model-83,Audio,1163.29,4.9,4301,5003310.29,Gaming Laptop,Ultra Premium,Excellent,Moderate
+AZ1096,USB-C Hub Model-39,Accessories,441.43,4.9,2072,914642.96,USB-C Hub,Core,Excellent,Low
+AZ1097,Webcam Pro Model-65,Computers,188.85,3.8,2074,391674.89999999997,Webcam Pro,Value,Solid,Low
+AZ1098,USB-C Hub Model-83,Audio,47.43,3.6,3840,182131.2,USB-C Hub,Value,Needs Attention,Moderate
+AZ1099,External SSD Model-31,Computers,1040.16,4.4,7714,8023794.24,External SSD,Premium,Strong,Very High
+AZ1100,4K Monitor Model-49,Electronics,727.54,4.7,3528,2566761.1199999996,4K Monitor,Premium,Strong,Moderate
